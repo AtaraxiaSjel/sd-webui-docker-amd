@@ -1,0 +1,4 @@
+/backup
+/shared/**
+!/shared/init.sh
+!.envrc
