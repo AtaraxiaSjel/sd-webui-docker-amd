@@ -1,4 +1,4 @@
-# Stable-Diffusion-WebUI (AUROMATIC1111) docker image for AMD GPUs
+# Stable-Diffusion-WebUI (AUTOMATIC1111) docker image for AMD GPUs
 
 Contains init script (./shared/init.sh) that downloads the NAI model, hypernetworks, danbooru tag autocomplition and some sane ui-config defaults.
 
